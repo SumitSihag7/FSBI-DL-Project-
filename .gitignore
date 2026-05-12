@@ -16,5 +16,8 @@ checkpoints/
 data/
 datasets/
 deepfake_env/
-models/
 training/
+
+sb
+sb.pub
+*.zip
