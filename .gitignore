@@ -16,7 +16,6 @@ checkpoints/
 data/
 datasets/
 deepfake_env/
-training/
 
 sb
 sb.pub
